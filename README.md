@@ -1,0 +1,2 @@
+# magazyn
+WMII Olsztyn 
