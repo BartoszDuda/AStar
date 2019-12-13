@@ -1,2 +1,2 @@
-# magazyn
 WMII Olsztyn 
+AStar na zaliczenie 
