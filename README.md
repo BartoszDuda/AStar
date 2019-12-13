@@ -1,2 +1,2 @@
-WMII Olsztyn 
+# WMII Olsztyn 
 AStar na zaliczenie 
